@@ -13,9 +13,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
   <!-- Social Links with Hover Animation -->
-  [![Email](https://img.shields.io/badge/📧_taibeo161023@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taibeo161023@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beo-nguyen-a93492340/)
-  [![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.nhu.tai.776894)
+  [![Email](https://img.shields.io/badge/taibeo161023@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taibeo161023@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beo-nguyen-a93492340/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.nhu.tai.776894)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Marshal-Nguyen&color=brightgreen&style=for-the-badge)
   
