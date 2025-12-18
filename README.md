@@ -14,19 +14,10 @@
 ---
 
 ## 🔗 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/beo-nguyen-a93492340">
-    <img src="https://vi.pngtree.com/freepng/linkedin-social-media-icon_3572482.html" width="30"/>
-  </a>
-  <a href="mailto:taibeo161023@gmail.com">
-    <img src="https://camo.githubusercontent.com/ce82dc79b3be56b26e6ad717e32f4c52a477280226b93bd121be17bce016c5e2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d61696c696e672e706e67
-" width="30"/>
-  </a>
-  <a href="https://github.com/nntai1111">
-    <img src="
-https://camo.githubusercontent.com/0c2489a644cea20436418e5a488b2f05fe3f71d721ed94a3d218dcc8f1f0f3f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" width="30"/>
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beo-nguyen-a93492340)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taibeo161023@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nntai1111)
 
 ---
 
