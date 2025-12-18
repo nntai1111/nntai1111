@@ -16,8 +16,7 @@
 ## 🔗 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/beo-nguyen-a93492340">
-    <img src="https://camo.githubusercontent.com/90ddf9905b85a7bfc0294af736b0d20fb27db4a5d594b4ed0f48cd6b9ab6823b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67
-" width="30"/>
+    <img src="https://vi.pngtree.com/freepng/linkedin-social-media-icon_3572482.html" width="30"/>
   </a>
   <a href="mailto:taibeo161023@gmail.com">
     <img src="https://camo.githubusercontent.com/ce82dc79b3be56b26e6ad717e32f4c52a477280226b93bd121be17bce016c5e2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d61696c696e672e706e67
