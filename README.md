@@ -1,34 +1,31 @@
 <h2 align="center">Hi 👋, I'm Nhu Tai</h2>
-<p align="center">
-  🌱 Front-End Developer (Fresher) • React-focused • UI-first
-</p>
+<h4 align="center">Front-End Developer (Fresher) | React-focused</h4>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Front-End Developer (Fresher) with ~1 year of hands-on experience
-- ⚛️ Specialize in building modern web apps using **React**
-- 💻 Familiar with JavaScript, HTML, CSS & responsive design
-- 🚀 Passionate about creating intuitive user experiences
+<table>
+<tr>
+<td width="50%">
 
----
+### 👨‍💻 About Me
+- 🎓 Front-End Developer (Fresher)
+- ⚛️ React-focused
+- 🎯 Interested in building user-friendly web apps
+- 🌱 Always learning & improving
 
-## 🔗 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30"/>
-  </a>
-  <a href="https://github.com/nntai1111">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
-  </a>
-</p>
+### 🔗 Connect
+<a href="https://linkedin.com/in/yourlinkedin">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28"/>
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28"/>
+</a>
 
----
+</td>
 
-## 🛠️ Tech Stack
+<td width="50%">
+
+### 🧠 Tech Stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -36,15 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nntai1111&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nntai1111&layout=compact&theme=tokyonight)
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Fun Fact
-> “Learning by doing is the best way to grow.”
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
