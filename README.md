@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Ultra Modern Header with Multiple Animations -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nguyen%20Van%20Truong%20Giang&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Capricorn%20%7C%20%2009-01-2003%20%&descAlignY=60&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nguyen%20Nhu%20Tai&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Capricorn%20%7C%20%2009-01-2003%20%&descAlignY=60&descSize=18"/>
   
 </div>
 
