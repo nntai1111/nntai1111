@@ -128,6 +128,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
 </div>
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nntai1111&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nntai1111&layout=compact&theme=tokyonight)
 
 ---
 ## <img src="https://user-images.githubusercontent.com/74038190/216656965-39dc2b60-4b67-4df1-adea-bafd0264b6c4.gif" width="50"> Featured Projects
