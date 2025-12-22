@@ -120,7 +120,6 @@
 | 📱 **Mobile Fitness App** | React Native workout companion | React Native, Expo, Redux |
 
 </div>
----
 
 <div align="center">
   
