@@ -95,10 +95,10 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🍕 **PizzaChesses** | Fullstack Pizza Ordering System with Admin, Cashier POS & Customer roles. Features JWT + RBAC authentication, menu management (Pizza, Category, Topping, Combo), shopping cart, order processing, COD & VNPay payment integration. | Spring Boot, Spring Security, PostgreSQL, Flyway, JWT, React, Cloudinary, Swagger |
 | 🛒 **E-commerce Platform** | Fullstack shopping system with REST API | Spring Boot, React, PostgreSQL |
 | 📋 **Task Management System** | Backend-focused task & user management | Spring Boot, Spring Security, MySQL |
 | 💬 **Real-time Chat App** | Messaging system with WebSocket | Spring Boot, WebSocket, Redis |
-| 📱 **Mental Wellness App** | Fullstack wellness tracking application | React, Spring Boot, Firebase |
 
 </div>
 
